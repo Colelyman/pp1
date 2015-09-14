@@ -70,5 +70,5 @@ footer {
   transform: translateZ(0);
 }
 .parallax__layer--back {
-  transform: translateZ(-1px);
+  transform: translateZ(-10px);
 }
